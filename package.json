@@ -1,0 +1,16 @@
+{
+  "name": "uploader",
+  "version": "1.0.0",
+  "description": "Hi guyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "noblox.js": "^6.1.1"
+  }
+}
